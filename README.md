@@ -1,5 +1,6 @@
 
 
+
 ---
 
 # JavaScript Password Generator
@@ -65,10 +66,6 @@ This is a simple password generator built using HTML, CSS, and JavaScript.
 - Supports uppercase letters, lowercase letters, numbers, and special characters.
 - Copy button to easily copy the generated password to the clipboard.
 - Responsive design for mobile and desktop devices.
-
-## Preview
-
-![Password Generator Preview](preview.png)
 
 ## Getting Started
 
